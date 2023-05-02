@@ -6,6 +6,6 @@ Check out the examples below
 
 The above image consists tumor
 
-![image](https://user-images.githubusercontent.com/108170869/235571806-178623f1-6294-498d-ba07-c03d71939c51.png)
+![image](https://user-images.githubusercontent.com/108170869/235571907-8579ac9c-a1bf-4d19-8052-e5ad0d405fb7.png)
 
 The above image is non tumorous
